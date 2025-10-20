@@ -5,7 +5,7 @@ See [ZODIPIC_onezodi](https://github.com/dreamjade/ZODIPIC_onezodi) for details,
 See [exosims.ipynb](exosims.ipynb) for details.
 
 # ExoVista
-See [ExoVista_gen.ipynb](ExoVista_gen.ipynb) in [ExoVista](https://github.com/dreamjade/ExoVista) for details.
+See [test.ipynb](https://github.com/dreamjade/ExoVista/blob/main/test.ipynb) in [ExoVista](https://github.com/dreamjade/ExoVista) for details.
 
 # Flat
 22 mag/as^2
