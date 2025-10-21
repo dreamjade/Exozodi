@@ -11,9 +11,9 @@ This repository is organized into several directories, each corresponding to a d
 
 *   [`Coronagraphic_PSFs/`](Coronagraphic_PSFs/): Contains notebooks and data for generating the Apodized Pupil Lyot Coronagraph (APLC) and Vortex Coronagraph (VC) Point Spread Functions (PSFs).
 
-*   [`Images/`](Images/): The [`images.ipynb`](Exozodi/Images/images.ipynb) notebook contains the code to generate the figures used in the paper.
+*   [`Images/`](Images/): The [`images.ipynb`](Images/images.ipynb) notebook contains the code to generate the figures used in the paper.
 
-*   [`Convolution/`](Convolution/): The [`release.ipynb`](Exozodi/Convolution/release.ipynb) notebook details the process of convolving the model images with the coronagraphic PSFs.
+*   [`Convolution/`](Convolution/): The [`release.ipynb`](Convolution/release.ipynb) notebook details the process of convolving the model images with the coronagraphic PSFs.
 
 ## Requirements
 
