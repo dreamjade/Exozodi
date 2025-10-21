@@ -7,13 +7,13 @@ Exozodiacal Dust inside Inner Working Angle" (Yu-Chia Lin et al. 2025). The code
 
 This repository is organized into several directories, each corresponding to a different part of the analysis.
 
-*   [`one_zodi/`](Exozodi/one_zodi/): Contains notebooks and parameter files for modeling a 1-zodi exozodiacal disk using different simulation tools
+*   [`one_zodi/`](one_zodi/): Contains notebooks and parameter files for modeling a 1-zodi exozodiacal disk using different simulation tools
 
-*   [`Coronagraphic_PSFs/`](Exozodi/Coronagraphic_PSFs/): Contains notebooks and data for generating the Apodized Pupil Lyot Coronagraph (APLC) and Vortex Coronagraph (VC) Point Spread Functions (PSFs).
+*   [`Coronagraphic_PSFs/`](Coronagraphic_PSFs/): Contains notebooks and data for generating the Apodized Pupil Lyot Coronagraph (APLC) and Vortex Coronagraph (VC) Point Spread Functions (PSFs).
 
-*   [`Images/`](Exozodi/Images/): The [`images.ipynb`](Exozodi/Images/images.ipynb) notebook contains the code to generate the figures used in the paper.
+*   [`Images/`](Images/): The [`images.ipynb`](Exozodi/Images/images.ipynb) notebook contains the code to generate the figures used in the paper.
 
-*   [`Convolution/`](Exozodi/Convolution/): The [`release.ipynb`](Exozodi/Convolution/release.ipynb) notebook details the process of convolving the model images with the coronagraphic PSFs.
+*   [`Convolution/`](Convolution/): The [`release.ipynb`](Exozodi/Convolution/release.ipynb) notebook details the process of convolving the model images with the coronagraphic PSFs.
 
 ## Requirements
 
